@@ -3,5 +3,5 @@
 Usage:
 
 {
-  plugins: ["ignore-fonts", ...]
+  plugins: ["ssr-ignore-fonts, ...]
 }
