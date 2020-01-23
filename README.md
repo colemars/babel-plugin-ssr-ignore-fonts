@@ -1,6 +1,8 @@
 # babel-plugin-ssr-ignore-fonts
 
-https://www.npmjs.com/package/babel-plugin-ignore-import
+https://www.npmjs.com/package/babel-plugin-ssr-ignore-fonts
+
+`npm i babel-plugin-ssr-ignore-fonts`
 
 Usage:
 
