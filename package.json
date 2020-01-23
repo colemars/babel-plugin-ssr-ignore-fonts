@@ -1,0 +1,36 @@
+{
+  "name": "babel-plugin-ssr-ignore-fonts",
+  "version": "1.0.0",
+  "description": "Babel plugin to ignore fonts",
+  "main": "./src/index.js",
+  "scripts": {
+    "lint": "eslint src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colemars/babel-plugin-ssr-ignore-fonts"
+  },
+  "keywords": [
+    "babel",
+    "ssr",
+    "fonts",
+    "ignore"
+  ],
+  "author": "Cole Marsteller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colemars/babel-plugin-ssr-ignore-fonts/issues"
+  },
+  "homepage": "https://github.com/colemars/babel-plugin-ssr-ignore-fonts#readme",
+  "peerDependencies": {
+    "@babel/core": "^7.8.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "babel-plugin-tester": "^8.0.1",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {}
+}
